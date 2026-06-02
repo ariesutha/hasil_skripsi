@@ -1,0 +1,8 @@
+Clapeyron Estimator
+[method=my_liquid_density]
+T,out_rho
+293.15,987.65
+303.15,979.65
+313.15,971.61
+323.15,963.52
+333.15,955.38

@@ -1,0 +1,10 @@
+Clapeyron Estimator
+[method=chem_activity_coeff]
+m,out_gamma_star_x
+0.1008,1.043
+0.2,1.086
+0.2471,1.107
+0.293,1.128
+0.3428,1.152
+0.4011,1.179
+0.4543,1.204
